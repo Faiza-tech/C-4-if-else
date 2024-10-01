@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\bin\Debug\net8.0\booleanExpression.exe
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\bin\Debug\net8.0\booleanExpression.deps.json
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\bin\Debug\net8.0\booleanExpression.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\bin\Debug\net8.0\booleanExpression.dll
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\bin\Debug\net8.0\booleanExpression.pdb
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\booleanExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\booleanExpression.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\booleanExpression.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\booleanExpression.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\booleanExpression.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\booleanExpression.dll
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\refint\booleanExpression.dll
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\booleanExpression.pdb
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\booleanExpression.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\booleanExpression\obj\Debug\net8.0\ref\booleanExpression.dll
